@@ -167,4 +167,18 @@ See repository file list.
 
 ---
 
+
+## 🔗 Canonical Public Proof Repository
+
+This repository is a **historical/public archive** for Collapse Aware AI (CAAI).
+
+For the **current, canonical public proof pack** (including the latest documentation, evidence bundle, and official references), please use:
+
+➡ **Collapse-Aware AI — Public Proof Pack (v1.0)**  
+https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
+
+Search engines, researchers, and partners should treat the Public Proof Pack above as the **authoritative, up-to-date source** for Collapse Aware AI.
+This archive remains online for provenance, historical context, and citation only.
+
+
 ### **End of Public Archive README**  
