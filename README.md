@@ -121,7 +121,7 @@ Studios, researchers, and enterprise groups may request:
 
 To enquire, email:
 
-📧 **inappropriate.media.ltd@proton.me**  
+📧 collapseawareai@gmail.com  
 Subject: **Collapse Aware — Collaboration Request**
 
 You will receive:
