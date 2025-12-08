@@ -4,7 +4,7 @@ This repository provides the **public archive** of conceptual, historical, and r
 
 ⚠️ **This is not the main public-proof repository.**  
 For the active, curated public-proof repository, visit:  
-👉 https://github.com/collapsefield/CollapseAwareAI_PublicProof
+👉 https://github.com/collapsefield/collapse-aware-ai-public-proof-pack
 
 This archive exists to:
 - document early research paths and public notes  
