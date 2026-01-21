@@ -156,6 +156,8 @@ All intellectual and emergent rights reserved.
 
 # 🔗 Useful Links
 
+https://doi.org/10.5281/zenodo.17416435
+
 **Main Public Proof Repository:**  
 https://github.com/collapsefield/CollapseAwareAI_PublicProof
 
